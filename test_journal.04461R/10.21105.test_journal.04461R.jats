@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN"
+                  "JATS-publishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+<front>
+<journal-meta>
+<journal-id></journal-id>
+<journal-title-group>
+<journal-title>Journal of Open Source Software</journal-title>
+<abbrev-journal-title>JOSS</abbrev-journal-title>
+</journal-title-group>
+<issn publication-format="electronic">2475-9066</issn>
+<publisher>
+<publisher-name>Open Journals</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">0</article-id>
+<article-id pub-id-type="doi">10.21105/joss.04461R</article-id>
+<title-group>
+<article-title>Retraction Notice for TQMD</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Editorial Board</surname>
+<given-names>JOSS</given-names>
+</name>
+<xref ref-type="aff" rid="aff-1"/>
+</contrib>
+<aff id="aff-1">
+<institution-wrap>
+<institution>Journal of Open Source Software</institution>
+</institution-wrap>
+</aff>
+</contrib-group>
+<volume>8</volume>
+<issue>88</issue>
+<fpage>4461R</fpage>
+<permissions>
+<copyright-statement>Authors of papers retain copyright and release the
+work under a Creative Commons Attribution 4.0 International License (CC
+BY 4.0)</copyright-statement>
+<copyright-year>2022</copyright-year>
+<copyright-holder>The article authors</copyright-holder>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+<license-p>Authors of papers retain copyright and release the work under
+a Creative Commons Attribution 4.0 International License (CC BY
+4.0)</license-p>
+</license>
+</permissions>
+<kwd-group kwd-group-type="author">
+<kwd>Astrophysics, Galaxies, Modelling</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<sec id="summary">
+  <title>Summary</title>
+  <p>Last year, TEST JOURNAL published this paper
+  <ext-link ext-link-type="uri" xlink:href="https://joss.theoj.org/papers/10.21105/joss.01277">tqdm:
+  A Fast, Extensible Progress Meter for Python and CLI</ext-link>.</p>
+  <p>While potential authorship issues were noted by reviewers at the
+  time and an attempt was made by the submitting author to contact one
+  of the other major contributors to the package, JOSS published the
+  paper as a single-author paper.</p>
+  <p>Sometime later, the authorship (and JOSS handling) of this
+  submission was
+  <ext-link ext-link-type="uri" xlink:href="https://joss.theoj.org/papers/10.21105/joss.01277">flagged
+  as problematic</ext-link> by a major contributor to the software and
+  JOSS conducted an internal review, and
+  <ext-link ext-link-type="uri" xlink:href="https://joss.theoj.org/about#ethics">concluded</ext-link>
+  that there had been an ethical violation and offered the tqdm
+  community one month to resolve the authorship issue.</p>
+  <p>Unfortunately, even after significant efforts from all parties, the
+  tqdm community have been unable to resolve this issue and come to an
+  agreed set of authors for their paper.</p>
+</sec>
+<sec id="resolution">
+  <title>Resolution</title>
+  <p>As a result, with regret, JOSS is today retracting this submission
+  due to a violation of its ethical standards.</p>
+</sec>
+</body>
+<back>
+</back>
+</article>
